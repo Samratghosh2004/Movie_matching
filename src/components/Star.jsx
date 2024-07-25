@@ -3,6 +3,7 @@ import { FaStarHalfAlt } from "react-icons/fa";
 import { FaStar } from "react-icons/fa";
 import { FaRegStar } from "react-icons/fa";
 
+
 function Star({starVote, movie}) {
     //const rating = 6
     const star = starVote/2;
